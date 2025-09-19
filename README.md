@@ -9,3 +9,4 @@ Below are the photos of the completed challenges
 <img width="1310" height="532" alt="A8DBA8BD-68FE-43C2-B807-8A8528A8E8BE" src="https://github.com/user-attachments/assets/58f885f8-c225-48d6-b391-72dadce829f3" />
 <img width="1809" height="537" alt="3DDE8CDB-09F3-49F8-999B-A513F7017436" src="https://github.com/user-attachments/assets/0420cbdc-81c5-440e-8114-d633841cc046" />
 <img width="943" height="481" alt="{99451794-0F2F-4CDE-9C8A-9B9CFF035412}" src="https://github.com/user-attachments/assets/0da30f7d-77c4-4e48-9416-4eaef68ad3ef" />
+<img width="1207" height="535" alt="{3245CDBA-9B49-436B-8628-973A7D2B61C3}" src="https://github.com/user-attachments/assets/b7e5d09a-716d-40d4-945f-6ea007254769" />
